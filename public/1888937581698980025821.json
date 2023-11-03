@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071510932996",
+    "project_id": "flashsale-486b6",
+    "storage_bucket": "flashsale-486b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071510932996:android:e6b45b60f930b7d8bd2f51",
+        "android_client_info": {
+          "package_name": "com.dressupindo.flashsalebajucelana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLIMmftWO-3KIpQcuW7RfaeTBXwqu1zt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
